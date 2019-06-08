@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="phone" label="Phone" language="en" table="x_334248_marketing_atendee">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>phone</element>
+            <help/>
+            <hint/>
+            <label>Phone</label>
+            <language>en</language>
+            <name>x_334248_marketing_atendee</name>
+            <plural>Phones</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-05 13:45:36</sys_created_on>
+            <sys_id>9ca79d6cdb117300adc6a565ca96190a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Phone</sys_name>
+            <sys_package display_value="Marketing Events" source="x_334248_marketing">f66917dcdbd93300adc6a565ca961980</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Marketing Events">f66917dcdbd93300adc6a565ca961980</sys_scope>
+            <sys_update_name>sys_documentation_x_334248_marketing_atendee_phone_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-05 13:45:36</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
